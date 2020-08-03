@@ -15,7 +15,7 @@ body {
  background-image: url("../images/header.jpg");
 }
 header {
-  background-color:#2F4F4F;
+  background-color:#696969;
   height: 60px;
   font-size: 1.5rem
   padding: 20px
@@ -105,7 +105,7 @@ header ul:after {
   width: 20%;
 }
 .footer {
-  background-color:#2F4F4F;
+  background-color:#263f4f;
   height: 50px;
   position: absolute;
   bottom: 0;
